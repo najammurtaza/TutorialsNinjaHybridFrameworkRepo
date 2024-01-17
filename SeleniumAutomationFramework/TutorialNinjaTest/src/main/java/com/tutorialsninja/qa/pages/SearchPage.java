@@ -5,7 +5,7 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
-//Updated Comment
+//Updated Comment --- Added more details
 
 public class SearchPage {
 	
